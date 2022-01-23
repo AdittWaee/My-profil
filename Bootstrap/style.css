@@ -1,0 +1,21 @@
+.navbar {
+  font-family: "sans-serif ms";
+}
+
+.jumbotron {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding-top: 6rem;
+  background-color: #dee2e6;
+}
+
+#projects {
+  background-color: #dee2e6;
+}
+
+#Contact {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+section {
+  padding-top: 5rem;
+}
